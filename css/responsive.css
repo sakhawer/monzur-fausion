@@ -1,0 +1,31 @@
+
+@media (max-width: 575px) { 
+    .items .info h5 {
+        font-size: 30px;
+    }
+    .banner_slider_body .items img {
+        height: 267px;
+    }
+    .slide_items .overlay {
+        padding: 23px 30px;
+        margin-bottom: 10px;
+    }
+    .text h5 {
+        font-size: 32px;
+    }
+    .text a {
+        padding: 7px 20px;
+    }
+    .text_mens h1 {
+        font-size: 30px;
+    }
+    .text_mens a {
+        padding: 15px 18px;
+    }
+
+    .nav-tabs li {
+        display: inline-block;
+        width: 125px;
+    }
+
+ }
